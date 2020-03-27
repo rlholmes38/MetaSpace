@@ -1,4 +1,4 @@
-# Meta Peace
+# MetaSpace
 Providing remote classes and tools for Web3 contributors to bring balance and peace into their communities. 
 
 # Why This Matters?
